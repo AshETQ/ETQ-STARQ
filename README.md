@@ -16,9 +16,12 @@ STARQ is able to walk, climb, and swim all with the same limbs and code base!  T
 
 ![ss2](https://github.com/AshETQ/ETQ-STARQ/blob/41c8c2b9f87814450a9e4245a2c3778ba12fe02a/STARQ%20Images/WalktoSwim2.PNG)
 
-## 🎥 In Action! (Uploading soon)
+## 🎥 In Action!
 
-See how STARQ moves! <a href="https://bigidea.nianet.org/past-competition-themes/2022-forum-results/" target="_blank">**HERE** </a>.
+
+See how STARQ moves! <a href="https://github.com/AshETQ/ETQ-STARQ/blob/91efcbcbacf6278ee7ab6e4ee8a6d0841c6910e9/STARQ_IROS_10MB.mp4" target="_blank">**HERE** </a>.
+
+Additional, highter quality video <a href="https://github.com/AshETQ/ETQ-STARQ/blob/91efcbcbacf6278ee7ab6e4ee8a6d0841c6910e9/STARQ_IROS_10MB.mp4" target="_blank">**here** </a>.
 
 
 ## 💻 Code
