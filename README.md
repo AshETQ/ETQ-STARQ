@@ -1,6 +1,6 @@
 # ET-QUAD (Extreme Terrain Quadruped) aka STARQ (Scansorial Terrestrial Aquatic Robot Quadruped)
 
-ET-QUAD was created by a team at FSU CISCOR lab for NASA's 2022 Big Ideas Challenge (Lunar Mission). As a team, we created a tri-modal platform that does not require limbs to be swapped in order to transition between modalities. I worked on developing and advising the tri-modal (walking, swimming, climbing) limb design (see the C-foot directory <a href="https://github.com/AshETQ/ETQ-STARQ/tree/41c8c2b9f87814450a9e4245a2c3778ba12fe02a/C-Shaped%20Foot%20Design">**here** </a>) and aided in creating experimental plans and testing procedures. I assisted in the validation and platform testing, and continued to maintain, document, and modify the robot after project completion. 
+ET-QUAD was created by a team at FSU CISCOR lab for NASA's 2022 Big Ideas Challenge (Lunar Mission). As a team, we created a tri-modal platform that does not require limbs to be swapped in order to transition between modalities. I worked on developing and advising the tri-modal (walking, swimming, climbing) limb design (see the C-foot directory <a href="https://github.com/AshETQ/ETQ-STARQ/tree/main/C-Shaped%20Foot%20Design">**here** </a>) and aided in creating experimental plans and testing procedures. I assisted in the validation and platform testing, and continued to maintain, document, and modify the robot after project completion. 
 
 ### 📄 Quick Links! 
 
