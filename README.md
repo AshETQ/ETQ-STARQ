@@ -14,7 +14,7 @@ An additional look at the robot design was published in ICRA, seen <a href="http
 
 See how STARQ moves in all three modes! <a href="https://github.com/AshETQ/ETQ-STARQ/blob/91efcbcbacf6278ee7ab6e4ee8a6d0841c6910e9/STARQ_IROS_10MB.mp4" target="_blank">**HERE** </a>.
 
-Additional, highter quality video <a href="https://1drv.ms/v/c/8fdf2d1a8c790b06/IQDTKYAGSpsRRIEdGgvp3_kNAVnvpn7ux8tuT845V6tScCs?e=axkcox" target="_blank">**here** </a>.
+Additional, higher quality video <a href="https://1drv.ms/v/c/8fdf2d1a8c790b06/IQDTKYAGSpsRRIEdGgvp3_kNAVnvpn7ux8tuT845V6tScCs?e=axkcox" target="_blank">**here** </a>.
 
 
 
